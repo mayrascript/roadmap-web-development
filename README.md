@@ -58,7 +58,7 @@
 - [Introducción - Tipos de Datos Importantes (ES)](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n#Tipos_de_datos_importantes)
 - [Guide to Web Components (EN)](https://developers.google.com/web/fundamentals/web-components)
 
-## Cursos de Typescript (luego de haber aprendido javascript)
+## Typescript (luego de haber aprendido javascript)
 
 - [Introducción a Typescript (ES)](https://youtu.be/FufR-Vailzk)
 

@@ -25,6 +25,7 @@
 - [BEM for class naming (EN)](http://getbem.com/introduction/)
 
 ## Javascript:
+- [JavaScript Fundamentals (EN)](https://thinkster.io/topics/javascript-fundamentals)
 - [Curso de Javascript (ES)](https://edutin.com/curso-de-javascript-4284)
 - [33 Conceptos que todo desarrollador de JavaScript debería saber (ES)](https://github.com/adonismendozaperez/33-js-conceptos)
 
@@ -54,6 +55,10 @@
 - [POO con Javascript - Parte 3 (ES)](https://www.youtube.com/watch?v=61w-5rHL-64)
 - [POO con Javascript - Parte 4 (ES)](https://www.youtube.com/watch?v=mIsdqd6Q5u8)
 
+### Javascript - Interviews
+- [100 Algorithms Challenge (EN)](https://thinkster.io/tutorials/100-algorithms-challenge)
+- [100 Front End Interview Questions Challenge (EN)](https://thinkster.io/tutorials/100-front-end-interview-questions-challenge) 
+
 ## DOM
 - [¿Qué es el DOM? (ES)](https://www.youtube.com/watch?v=jgU3Wn0Txec)
 - [Introducción (ES)](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
@@ -69,6 +74,11 @@
 - [Recursos de Angular (ES/EN)](https://github.com/mayrascript/angular-resources)
 
 ## React
+- [Fundamentals of React - Introduction (EN)](https://thinkster.io/tutorials/fundamentals-of-react-introduction)
+- [Introduction To React Hooks (EN)](https://thinkster.io/tutorials/introduction-to-react-hooks)
 - [Recursos (ES/EN)](https://es.reactjs.org/community/courses.html)
 - [Curso Gratis de React (ES)](https://codigofacilito.com/cursos/curso-gratis-de-react)
 - [Curso Gratis de React 2020 (ES)](https://midu.dev/curso-gratis-react-2020/)
+
+## Vue
+- [Introduction to Vue.js: Course Introduction (EN)](https://thinkster.io/tutorials/introduction-to-vuejs)

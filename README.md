@@ -42,6 +42,7 @@
   
 ### Javascript - Buenas Prácticas
 - [Guía de estilo, convenciones y buenas prácticas de desarrollo con Javascript (ES)](https://medium.com/@davidenq/gu%C3%ADa-de-estilo-convenciones-y-buenas-pr%C3%A1cticas-de-desarrollo-con-javascript-d2e9ef80d63b)
+- [Prettier + EsLint (ES)](https://medium.com/capua-dev/integrando-prettier-con-eslint-961d1d8b716c)
   
 ### Javascript - Testing
 - [How to Start unit testing in Javascript (EN)](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript)

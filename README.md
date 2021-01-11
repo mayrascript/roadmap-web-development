@@ -2,8 +2,10 @@
 
 ## Basic Programming
 - [Ejercicios Pseudocódigo (ES)](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
+- [Programación Básica (ES) - GRATIS](https://platzi.com/cursos/programacion-basica/)
 - [What is a pure function? (EN)](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [MDN Web Official Documentation (ES/EN)](https://developer.mozilla.org)
+
 
 ## Tools
 - [*CODEPEN*: An online code editor and learning environment (EN)](https://codepen.io/)
@@ -80,6 +82,7 @@
 - [Recursos (ES/EN)](https://es.reactjs.org/community/courses.html)
 - [Curso Gratis de React (ES)](https://codigofacilito.com/cursos/curso-gratis-de-react)
 - [Curso Gratis de React 2020 (ES)](https://midu.dev/curso-gratis-react-2020/)
+- [Epic React (EN) - PAID](https://epicreact.dev/)
 
 ## Vue
 - [Introduction to Vue.js: Course Introduction (EN)](https://thinkster.io/tutorials/introduction-to-vuejs)

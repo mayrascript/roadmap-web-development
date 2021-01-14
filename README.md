@@ -94,3 +94,8 @@
 - [Make it real (FREE until you get a job - Mix)](https://makeitreal.camp/top)
 - [Laboratoria (FREE until you get a job - Girls Only)](https://www.laboratoria.la/)
 
+### Scholarships
+- [Platzi (Mothers Head of Household)](https://platzi.com/blog/beca-madres/)
+- [Platzi (Venezuelans)](https://platzi.com/blog/cursos-platzi-venezuela-gratis/)
+
+

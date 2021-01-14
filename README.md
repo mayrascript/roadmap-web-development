@@ -13,6 +13,7 @@
 ## Git y Github:
 - [Git y Github | Curso Práctico de Git y Github Desde Cero (ES)](https://www.youtube.com/watch?v=HiXLkL42tMU)
 - [Curso de Git Gratis (ES)](https://codigofacilito.com/cursos/git)
+- [Git for Beginners (EN) ](https://dev.to/purveshshende2/git-for-beginners-3il6)
 - [Git Flow: A successful Git branching model (EN)](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Interactive tool for git (EN)](https://github.com/jlord/git-it-electron)
 

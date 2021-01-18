@@ -60,9 +60,12 @@
 - [POO con Javascript - Parte 4 (ES)](https://www.youtube.com/watch?v=mIsdqd6Q5u8)
 
 ### Javascript - Interviews
-- [10 days of Javascript (EN)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [100 Algorithms Challenge (EN)](https://thinkster.io/tutorials/100-algorithms-challenge)
 - [100 Front End Interview Questions Challenge (EN)](https://thinkster.io/tutorials/100-front-end-interview-questions-challenge) 
+
+### Javascript - Challenges
+- [10 days of Javascript (EN)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- [Dev Challenges (EN)](https://devchallenges.io/)
 
 ## DOM
 - [¿Qué es el DOM? (ES)](https://www.youtube.com/watch?v=jgU3Wn0Txec)

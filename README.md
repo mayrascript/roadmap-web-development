@@ -99,6 +99,7 @@
 
 ### GraphQL
 - [Apollo GraphQL Course (EN) - FREE](https://odyssey.apollographql.com/)
+- [Apollo GraphQL - Fullstack Tutorial (EN) - FREE](https://github.com/apollographql/fullstack-tutorial)
 
 ## Others
 

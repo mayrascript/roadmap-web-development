@@ -95,6 +95,11 @@
 ## Vue
 - [Introduction to Vue.js: Course Introduction (EN)](https://thinkster.io/tutorials/introduction-to-vuejs)
 
+## Backend
+
+### GraphQL
+- [Apollo GraphQL Course (EN) - FREE](https://odyssey.apollographql.com/)
+
 ## Others
 
 ### Bootcamps in Colombia

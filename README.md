@@ -111,4 +111,9 @@
 - [Platzi (Mothers Head of Household)](https://platzi.com/blog/beca-madres/)
 - [Platzi (Venezuelans)](https://platzi.com/blog/cursos-platzi-venezuela-gratis/)
 
+### Jobs
+
+#### Jobs - Remote
+- [https://terminal.io/](https://terminal.io/)
+
 

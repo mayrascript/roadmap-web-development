@@ -80,6 +80,7 @@
 ## Typescript (luego de haber aprendido javascript)
 
 - [Introducción a Typescript (ES)](https://youtu.be/FufR-Vailzk)
+- [Typescript Performance (EN)](https://github.com/microsoft/TypeScript/wiki/Performance)
 
 ## Angular
 - [Recursos de Angular (ES/EN)](https://github.com/mayrascript/angular-resources)

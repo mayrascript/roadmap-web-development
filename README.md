@@ -6,7 +6,6 @@
 - [What is a pure function? (EN)](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [MDN Web Official Documentation (ES/EN)](https://developer.mozilla.org)
 
-
 ## Tools
 - [*CODEPEN*: An online code editor and learning environment (EN)](https://codepen.io/)
 
@@ -102,6 +101,14 @@
 - [Apollo GraphQL Course (EN) - FREE](https://odyssey.apollographql.com/)
 - [Apollo GraphQL - Fullstack Tutorial (EN) - FREE](https://github.com/apollographql/fullstack-tutorial)
 
+
+## Algorithms and Code Interviews
+
+### Platforms to Practice
+- [Exercism (EN)](https://exercism.io/)
+- [LeetCode (EN)](https://leetcode.com/)
+- [HackerRank (EN)](https://www.hackerrank.com/)
+
 ## Others
 
 ### Bootcamps in Colombia
@@ -115,6 +122,6 @@
 ### Jobs
 
 #### Jobs - Remote
-- [https://terminal.io/](https://terminal.io/)
-
+- [terminal.io (English required)](https://terminal.io/)
+- [triplebyte (English required)](https://triplebyte.com/)
 

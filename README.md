@@ -1,27 +1,7 @@
 # Roadmap - Web Development
 
 ## Reference
-### Languages
-- :uk: English
-- :es: Spanish
-
-### Costs
-- :free: Free resource
-- :dollar: Paid resource
-
-### Type
-- :cinema: Video
-- :clipboard: Blog Post
-- :blue_book: Book
-- :mortar_board: Course
-- :file_folder: Official Doc
-
-### Another Tags
-- :star: Highly recommended
-- :fire: Polemic Alert
-- :paperclip: Save it!
-- :rainbow: Focus on Diversity
-- :woman: Girls and Women Only
+- [En este link encontrarás el significado de los emojis](https://github.com/mayrascript/emojis-references)
 
 
 ## Basic Programming

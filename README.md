@@ -20,11 +20,12 @@
 - :fire: Polemic Alert
 - :paperclip: Save it!
 - :rainbow: Focus on Diversity
+- :woman: Girls and Women Only
 
 
 ## Basic Programming
 - [Ejercicios Pseudocódigo (:es:)](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
-- [Programación Básica (:es:) - :free:](https://platzi.com/cursos/programacion-basica/)
+- [Programación Básica (:es: - :free:)](https://platzi.com/cursos/programacion-basica/)
 - [What is a pure function? (:uk:)](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [MDN Web Official Documentation (:es:/:uk:)](https://developer.mozilla.org)
 
@@ -120,8 +121,8 @@
 ## Backend
 
 ### GraphQL
-- [Apollo GraphQL Course (:uk:) - :free:](https://odyssey.apollographql.com/)
-- [Apollo GraphQL - Fullstack Tutorial (:uk:) - :free:](https://github.com/apollographql/fullstack-tutorial)
+- [Apollo GraphQL Course (:uk: - :free:)](https://odyssey.apollographql.com/)
+- [Apollo GraphQL - Fullstack Tutorial (:uk: - :free:)](https://github.com/apollographql/fullstack-tutorial)
 
 
 ## Algorithms and Code Interviews
@@ -135,7 +136,7 @@
 
 ### Bootcamps in Colombia
 - [Make it real (:free: until you get a job - Mix)](https://makeitreal.camp/top)
-- [Laboratoria (:free: until you get a job - Girls Only)](https://www.laboratoria.la/)
+- [Laboratoria (:free: until you get a job - :rainbow: :woman:)](https://www.laboratoria.la/)
 
 ### Scholarships
 - [Platzi (Mothers Head of Household)](https://platzi.com/blog/beca-madres/)

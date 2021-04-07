@@ -14,6 +14,7 @@
 - :clipboard: Blog Post
 - :blue_book: Book
 - :mortar_board: Course
+- :file_folder: Official Doc
 
 ### Another Tags
 - :star: Highly recommended
@@ -57,13 +58,13 @@
 ### Javascript - Arrays
 #### Javascript - Arrays - Functions
 - Ordering: 
-  - [sort (:uk:/:es:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/sort)
+  - [sort (:uk:/:es: - :file_folder:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/sort)
 - Search:
-  - [filter (:uk:/:es:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter)
-  - [find (:uk:/:es:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/find)
-  - [findIndex (:uk:/:es:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/findIndex)
-  - [includes (:uk:/:es:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/includes)
-  - [indexOf (:uk:/:es:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/indexOf)
+  - [filter (:uk:/:es: - :file_folder:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter)
+  - [find (:uk:/:es: - :file_folder:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/find)
+  - [findIndex (:uk:/:es: - :file_folder:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/findIndex)
+  - [includes (:uk:/:es: - :file_folder:)](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/includes)
+  - [indexOf (:uk:/:es:) - :file_folder:](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/indexOf)
   
 ### Javascript - Promises
   - [JavaScript Promise Tutorial – How to Resolve or Reject Promises in JS (:uk:)](https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/)
@@ -102,7 +103,7 @@
 ## Typescript (luego de haber aprendido javascript)
 
 - [Introducción a Typescript (:es:)](https://youtu.be/FufR-Vailzk)
-- [Typescript Performance (:uk:)](https://github.com/microsoft/TypeScript/wiki/Performance)
+- [Typescript Performance (:uk: - :file_folder:)](https://github.com/microsoft/TypeScript/wiki/Performance)
 
 ## Angular
 - [Recursos de Angular (:es:/:uk:)](https://github.com/mayrascript/angular-resources)
@@ -110,7 +111,7 @@
 ## React
 - [Fundamentals of React - Introduction (:uk:)](https://thinkster.io/tutorials/fundamentals-of-react-introduction)
 - [Introduction To React Hooks (:uk:)](https://thinkster.io/tutorials/introduction-to-react-hooks)
-- [Recursos (:es:/:uk:)](https://es.reactjs.org/community/courses.html)
+- [Recursos (:es:/:uk: - :file_folder:)](https://es.reactjs.org/community/courses.html)
 - [Curso Gratis de React (:es:)](https://codigofacilito.com/cursos/curso-gratis-de-react)
 - [Curso Gratis de React 2020 (:es:)](https://midu.dev/curso-gratis-react-2020/)
 - [Epic React (:uk:) - :dolar:](https://epicreact.dev/)
@@ -121,7 +122,7 @@
 ## Backend
 
 ### GraphQL
-- [Apollo GraphQL Course (:uk: - :free:)](https://odyssey.apollographql.com/)
+- [Apollo GraphQL Course (:uk: - :free: - :file_folder:)](https://odyssey.apollographql.com/)
 - [Apollo GraphQL - Fullstack Tutorial (:uk: - :free:)](https://github.com/apollographql/fullstack-tutorial)
 
 

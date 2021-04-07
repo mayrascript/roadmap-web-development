@@ -105,9 +105,9 @@
 ## Algorithms and Code Interviews
 
 ### Platforms to Practice
-- [Exercism (EN)](https://exercism.io/)
-- [LeetCode (EN)](https://leetcode.com/)
-- [HackerRank (EN)](https://www.hackerrank.com/)
+- [Exercism (EN)](https://exercism.io/)
+- [LeetCode (EN)](https://leetcode.com/)
+- [HackerRank (EN)](https://www.hackerrank.com/)
 
 ## Others
 

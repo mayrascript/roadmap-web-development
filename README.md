@@ -1,16 +1,16 @@
 # Roadmap - Web Development
 
-## Reference
+## Referencias
 - [En este link encontrarás el significado de los emojis](https://github.com/mayrascript/emojis-references)
+- [Recursos para mejorar el Inglés](https://github.com/mayrascript/english-resources/blob/main/README.md)
 
-
-## Basic Programming
+## Programación Básica
 - [Ejercicios Pseudocódigo (:es:)](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
 - [Programación Básica (:es: - :free:)](https://platzi.com/cursos/programacion-basica/)
 - [What is a pure function? (:uk:)](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [MDN Web Official Documentation (:es:/:uk:)](https://developer.mozilla.org)
 
-## Tools
+## Herramientas
 - [*CODEPEN*: An online code editor and learning environment (:uk:)](https://codepen.io/)
 
 ## Git y Github:

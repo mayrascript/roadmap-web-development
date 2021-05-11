@@ -132,3 +132,6 @@
 - [terminal.io (:uk:)](https://terminal.io/)
 - [triplebyte (:uk:)](https://triplebyte.com/)
 
+### Para los más pequeños de la casa
+- [Synthhesis (:uk:)](https://www.synthesis.is/)
+

@@ -105,6 +105,8 @@
 - [Apollo GraphQL Course (:uk: - :free: - :file_folder:)](https://odyssey.apollographql.com/)
 - [Apollo GraphQL - Fullstack Tutorial (:uk: - :free:)](https://github.com/apollographql/fullstack-tutorial)
 
+## Accessibility 
+- [Custom accesible checkboxes (:uk:)](https://www.a11ywithlindsey.com/blog/create-custom-keyboard-accesible-checkboxes)
 
 ## Algorithms and Code Interviews
 

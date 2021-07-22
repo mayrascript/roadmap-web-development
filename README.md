@@ -117,6 +117,11 @@
 
 ## Others
 
+### Tools and Docs
+- [Semver (:uk:)](https://semver.org/)
+- [Semantic Release (:uk:)](https://semantic-release.gitbook.io/semantic-release/)
+
+
 ### Bootcamps in Colombia
 - [Make it real (:free: until you get a job - Mix)](https://makeitreal.camp/top)
 - [Laboratoria (:free: until you get a job - :rainbow: :woman:)](https://www.laboratoria.la/)

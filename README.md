@@ -101,6 +101,9 @@
 
 ## Backend
 
+### Firebase
+- [Firestore with React (:uk:)](https://medium.com/get-it-working/get-googles-firestore-working-with-react-c78f198d2364)
+
 ### GraphQL
 - [Apollo GraphQL Course (:uk: - :free: - :file_folder:)](https://odyssey.apollographql.com/)
 - [Apollo GraphQL - Fullstack Tutorial (:uk: - :free:)](https://github.com/apollographql/fullstack-tutorial)

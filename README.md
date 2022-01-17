@@ -34,6 +34,7 @@
 - [JavaScript Fundamentals (:uk:)](https://thinkster.io/topics/javascript-fundamentals)
 - [Curso de Javascript (:es:)](https://edutin.com/curso-de-javascript-4284)
 - [33 Conceptos que todo desarrollador de JavaScript debería saber (:es:)](https://github.com/adonismendozaperez/33-js-conceptos)
+- [How to code in Javascript (:uk:)](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
 ### Javascript - Arrays
 #### Javascript - Arrays - Functions

@@ -81,6 +81,11 @@
 - [Introducción - Tipos de Datos Importantes (:es:)](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n#Tipos_de_datos_importantes)
 - [Guide to Web Components (:uk:)](https://developers.google.com/web/fundamentals/web-components)
 
+## Accessibility 
+- [Custom accesible checkboxes (:uk:)](https://www.a11ywithlindsey.com/blog/create-custom-keyboard-accesible-checkboxes)
+- [A Complete Guide To Accessible Front-End Components (:uk:)](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+
+
 ## Typescript (luego de haber aprendido javascript)
 
 - [Introducción a Typescript (:es:)](https://youtu.be/FufR-Vailzk)
@@ -108,9 +113,6 @@
 ### GraphQL
 - [Apollo GraphQL Course (:uk: - :free: - :file_folder:)](https://odyssey.apollographql.com/)
 - [Apollo GraphQL - Fullstack Tutorial (:uk: - :free:)](https://github.com/apollographql/fullstack-tutorial)
-
-## Accessibility 
-- [Custom accesible checkboxes (:uk:)](https://www.a11ywithlindsey.com/blog/create-custom-keyboard-accesible-checkboxes)
 
 ## Algorithms and Code Interviews
 

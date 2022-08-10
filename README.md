@@ -4,33 +4,54 @@
 - [En este link encontrarás el significado de los emojis](https://github.com/mayrascript/emojis-references)
 - [Recursos para mejorar el Inglés](https://github.com/mayrascript/english-resources/blob/main/README.md)
 
-## Programación Básica
-- [Ejercicios Pseudocódigo (:es:)](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
-- [Programación Básica (:es: - :free:)](https://platzi.com/cursos/programacion-basica/)
-- [What is a pure function? (:uk:)](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+## Recursos
 - [MDN Web Official Documentation (:es:/:uk:)](https://developer.mozilla.org)
 
 ## Herramientas
 - [*CODEPEN*: An online code editor and learning environment (:uk:)](https://codepen.io/)
 
-## Git y Github:
+## ¿Por donde empezar?
+Si nunca has escrito una sola línea de código o esto de la programación es totalmente nuevo para tí. Te recomiendo empezar con programación básica, así mismo existe algo llamado Pseudocódigo, el cual te ayudará a trabajar la parte lógica (algo fundamental en la programación) y lo mejor es que será en tu propio lenguaje, es decir, el español.
+
+## 1er PASO - Programación Básica y PseudoCódigo
+- [Introducción a la Programación (:es: - :free:)](https://codigofacilito.com/cursos/introduccion)
+- [Curso de introducción a la programación con pseudocódigo (:es: - :free:](https://plataforma.josedomingo.org/pledin/cursos/programacion/)
+- [Curso de Programación Básico: "Nunca he Programado" (:es: - :free:)](https://codigofacilito.com/cursos/nunca)
+- [Curso de introducción a los Algoritmos (:es: - :free:)](https://codigofacilito.com/cursos/algoritmos)
+
+### Complementario
+- [Ejercicios Pseudocódigo (:es:)](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
+
+## 2do PASO - Git y Github
 - [Git y Github | Curso Práctico de Git y Github Desde Cero (:es:)](https://www.youtube.com/watch?v=HiXLkL42tMU)
+
+### Complementario
 - [Curso de Git Gratis (:es:)](https://codigofacilito.com/cursos/git)
 - [Git for Beginners (:uk:) ](https://dev.to/purveshshende2/git-for-beginners-3il6)
-- [Git Flow: A successful Git branching model (:uk:)](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Interactive tool for git (:uk:)](https://github.com/jlord/git-it-electron)
 
-## HTML
+### Buenas Prácticas
+- [Git Flow: A successful Git branching model (:uk:)](https://nvie.com/posts/a-successful-git-branching-model/)
+
+## 3er PASO - HTML y CSS
+- [Curso de HTML y CSS (:es: - :free:)](https://open-bootcamp.com/cursos/html-y-css)
+
+### Complementario
+
+#### HTML
 - [Tags (:uk:)](https://allthetags.com/)
 - [Semantic elements in HTML (:uk:)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-## CSS
+#### CSS
 - [A Complete guide to Flexbox (:uk:)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Interactive flexbox game (:uk:)](https://flexboxfroggy.com/#es)
 - [A fun game to learn and practice CSS selectors (:uk:)](https://flukeout.github.io/)
+
+### Buenas Prácticas
+#### CSS
 - [BEM for class naming (:uk:)](http://getbem.com/introduction/)
 
-## Javascript:
+## 4to PASO - Javascript:
 - [JavaScript Fundamentals (:uk:)](https://thinkster.io/topics/javascript-fundamentals)
 - [Curso de Javascript (:es:)](https://edutin.com/curso-de-javascript-4284)
 - [33 Conceptos que todo desarrollador de JavaScript debería saber (:es:)](https://github.com/adonismendozaperez/33-js-conceptos)
@@ -73,6 +94,9 @@
 ### Javascript - Challenges
 - [10 days of Javascript (:uk:)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [Dev Challenges (:uk:)](https://devchallenges.io/)
+
+### Complementario
+- [What is a pure function? (:uk:)](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
 ## DOM
 - [¿Qué es el DOM? (:es:)](https://www.youtube.com/watch?v=jgU3Wn0Txec)

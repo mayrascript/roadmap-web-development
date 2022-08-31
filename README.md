@@ -15,13 +15,14 @@
 Si nunca has escrito una sola línea de código o esto de la programación es totalmente nuevo para tí. Te recomiendo empezar con programación básica, así mismo existe algo llamado Pseudocódigo, el cual te ayudará a trabajar la parte lógica (algo fundamental en la programación) y lo mejor es que será en tu propio lenguaje, es decir, el español.
 
 ## 1er PASO - Programación Básica y PseudoCódigo
-- [Introducción a la Programación (:es: - :free:)](https://codigofacilito.com/cursos/introduccion)
-- [Curso de introducción a la programación con pseudocódigo (:es: - :free:](https://plataforma.josedomingo.org/pledin/cursos/programacion/)
-- [Curso de Programación Básico: "Nunca he Programado" (:es: - :free:)](https://codigofacilito.com/cursos/nunca)
 - [Curso de introducción a los Algoritmos (:es: - :free:)](https://codigofacilito.com/cursos/algoritmos)
+- [¡A Programar! Una introducción a la programación (:es: - :free:)](https://es.coursera.org/learn/a-programar)
+
+### Herramientas
+- [PseInt - Herramienta para practicar pseudo - código](http://pseint.sourceforge.net/)
 
 ### Complementario
-- [Ejercicios Pseudocódigo (:es:)](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
+
 
 ## 2do PASO - Git y Github
 - [Git y Github | Curso Práctico de Git y Github Desde Cero (:es:)](https://www.youtube.com/watch?v=HiXLkL42tMU)
